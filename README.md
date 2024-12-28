@@ -1,2 +1,0 @@
-# SimpleToDoApp
-Using Django
